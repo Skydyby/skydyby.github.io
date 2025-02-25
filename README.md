@@ -1,2 +1,1 @@
-# Iskola projekt
-## Egy kávézó weloldalának felújítása
+# Lucky kávézó

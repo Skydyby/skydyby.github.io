@@ -19,7 +19,8 @@ body {
     background-color: white;
     border: 1px solid #1f5b25;
     border-radius: 4px;
-    margin-bottom: 1rem
+    margin-bottom: 1rem;
+    display: inline-block;
 }
 
 .kave:hover {
@@ -34,8 +35,9 @@ body {
     font-variant: small-caps;
 }
 
-#teszt{
+#teszt {
     position: absolute;
     width: 50px;
-
+    top: 0px;
+    right: 0px;
 }
